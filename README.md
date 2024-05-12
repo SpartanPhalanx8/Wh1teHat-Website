@@ -28,11 +28,11 @@
   <ul>
     <li>I'm a Cyber Security Investigator and Ethical Hacker. I am also a certified CISO and Network Engineer.</li>
     <li>I'm passionate about japanese martial arts after practicing Judo for many years and more recently (6 years or so), Aikido.</li>
-    <li>I enjoy buyilding electronics which started during my military career in which I built and propogated antennas for use with data cryptography, GPS and secure battlefield communications</li>
+    <li>I enjoy building electronics. That started during my military career in which I built and propogated antennas for use with data cryptography, GPS and secure battlefield communications</li>
     <li>I'm constantly striving to learn, update my skills and stay up-to-date with the latest technologies and threat assessments.</li>    
     <li>I'm currently developing my CISO role whilst also branching out towards blockchain development and analysis.</li>
     <li>I only recently began to document my projects on GitHub to gain positive feedback and constructive critique from my peers and anyone willing to share their wisdom.</li>
-    <li>I am currently focusing on web page development right now .</li>
+    <li>I am currently focusing on web page development right now to build on my knowledge of html, css and java.</li>
   </ul>
 </div>
 
