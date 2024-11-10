@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
   <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white"/>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3576082" style='border:none;'></iframe>
+ 
 
  </div>
 
