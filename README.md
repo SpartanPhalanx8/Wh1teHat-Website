@@ -48,11 +48,11 @@
 <div id="skills">
   <h2>Skills</h2>
   <ul>
-    <li>Information Security</li>
-    <li>Ethical Hacking</li>
+    <li>Certified Information Security Oficer</li>
+    <li>Ethical Hacker</li>
     <li>Open Source Intelligence Development</li>
     <li>Cryptocurrency/Blockchain Analysis</li>
-    <li>Tanker at World of Tanks, Modern Armour</li>
+    <li>Cybercrime Prevent</li>
   </ul>
 </div>
 
